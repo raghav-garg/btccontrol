@@ -1,4 +1,4 @@
 # btccontrol.com
 
 
-this was created as a replica of moneycontrol.com
+this was created as a replica of moneycontrol.com for cryptocurrencies
